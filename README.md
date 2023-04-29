@@ -1,0 +1,1 @@
+Simple timer. Maximum measurement time - one hour. Left click to reset. Right click to open the action menu. The action menu has the following buttons: change color theme, move, minimize to tray, close. Left-click again to finish moving. To close the menu, right-click again.
